@@ -1,6 +1,15 @@
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
+## 📋 Deploy
+- [Pagina Online](https://stackblitz.com/edit/web-platform-btau56?embed=1&file=index.html&view=preview)
+
+## ✨ Technology
+- HTML
+- CSS
+
+## 💻 About the project
+
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
 - Formulários
 - Estruturação e formatação de texto
